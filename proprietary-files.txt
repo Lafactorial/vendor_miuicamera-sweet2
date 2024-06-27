@@ -1,0 +1,9 @@
+# These proprietary files are extracted from Redmi Note 12 Pro (codenamed `sweet`) V816.0.3 THGMIXM, unless pinned
+
+-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Snap,Camera2,GoogleCameraGo|2ac4672ebbf1e7031c93efb2be06c4fd6975be0a
+-system/lib64/libcamera_algoup_jni.xiaomi.so
+-system/lib64/libcamera_mianode_jni.xiaomi.so
+-system/lib64/libmicampostproc_client.so
+-system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
+-vendor/lib64/libarcdualcamsat.so
+-vendor/lib64/libarcsat.so
